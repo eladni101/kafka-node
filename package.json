@@ -37,7 +37,7 @@
     "node": ">=8.5.1"
   },
   "optionalDependencies": {
-     "snappy": "^7.1.1"
+    "snappy": "7.1.1"
   },
   "devDependencies": {
     "@types/node": "^10.12.27",
